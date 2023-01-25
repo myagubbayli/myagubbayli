@@ -1,6 +1,7 @@
+<img src="https://lh3.googleusercontent.com/KUBpZuXpTiPPvMg2bRdEehRlEQnMjuKCf_SPipLBHyIqLVLVxzs33JZAzz4x3_puM8APTBPZ7OTQcwDwDMvLSob8arjNTyuK3cKXoI8TgjbW4AS08vYcFNc4I5fb8NuuLspPdm7IKC_ES8UeTmdTun9kpRi56cxSlKXRj2VcnybcUykPvzGiKuYjueNmr-LZ0Mq7eHWTQogIT1De6I4oT13HjoAMWdJ9MhXOwUGdtD_C5Bra49L9RItJ5t_Q7nfBDvJDsZYX8MJBWkgn5oW_E9Rzj-N4ea2AM26uQf3aGTYGKgSe-HU_MwPH4s1viFnMBElJiApdlGa0bBvzU7LafPLKk_7nFn15DcHrkc5L-sjOF5avF6OQlVyrlpsEvHtFYllJi2DO0GPQ8GJw6BNAgfUP17i619bf5_yk51rQhYYlTMAx9ItgFx-pAKEvm5wQOfW_-lemufkIzeRP3srM5hN_1G07IGiMi9IdPmC7rawUqQUxvstvhL5eewCrURecjH9DUNsT98C7sdbVq_TdK6XcZ9IDTzMsMXf8l3uwQueZrqH4tDzWLhJQuWC45rPj9CNyN0-SUEOCLUIPNGX1XQrauTvzaHMyY7UJKZwMGFdbLbKFTnPZH1EyPfc484AOhxx_Qe1q675LEteezp27RkOH5CJnB9AXTtnTGQzkg4MDAw_nm_KltISahvl0dNrtWpdBxNURTWFyVgFPXO-UcmZJPtmuHNrbSET7NXE3zTcrIrJRa6OMSsMe_BI5QmNwZ7pJhlrseLM6L7neccRxlL_rvBN3aF_CSzaaTagDY4XThfmPXBS065KUkAMemapJL1Ozv77-k7WT3eTE1UKBdIUxlXa03rO3BxAQ10_eg62F7YqL7wIZ3TNubuH6WgAh2mzX7YwA2M6MFyZyY82KMI6ObDx_AV-ikhYlhDfoqqsk8LOF=w1850-h555-no?authuser=0">
 <h1 align="center">Hi 👋, I'm Mahammad Yagubbayli</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1CeG-yup95kkMlsF96cjy4FqPiBJs7-Yz/view?usp=sharing">
+<img align="right" alt="Coding" width="500" src="https://lh3.googleusercontent.com/lWHKwzdvANOBZZtPls_NkF0PWh-LqRGKSl61n5g26EQofRJb2Xow5lQLTi33PbWEPDg-cc24oxJHvybVeRRqkDw6Lnx31UvhQs2CG9SNdzBev9rCRTZWOOiR0SRFAVX9kJ549OcpVg0KYJJtPmGetnH1QDBkGoUucK-jRpsxJwFZ8AIcGWCXw4LnKBrI4Ta_0MEF2w7LFiuIqwot5pqrVauisSqGy_lEB4rHF4j71Io-Gsby4oMabo8XvA0nnq9aVV4N33yoBgXV2BpbXGngttIcMQZlHybsC-QBZPH-iPl-GO0_VLNP79UVZoCUPrlFmdp9UvVPWiYBcNH5LWa3m8N3INJ-QFJBFBOFoANlcCkuHqrnxbpdaNDRm6XrxoxyYu0nSxjjSU88AG1m57Km8Y_ViCAo0xZ_JrvDU_enW2iSosStDUjI5tTkTRKpSfISg19hP0QyqW6c2IXBaWY4anFJJvEqp_AvLr0oNAOhF8obBDfEmRxAWajOAIFhbZZM3ouF5WhMpFUmh-BRy8gTDDTNmjwwO5i05jQeOCHalalUOBnbMHvO3-SbimZiVT8hZHw6UfA551oa3GZs022VqhXBHRQDGr4ceWNVhA8Qew5r3RGXxlFLHeSwOvh0v0AVwO_rtupmQmyqf-wi3pVGAD8ujHydFco8py9MFlQhzx5eGp1IC5ALd0nyXoMF5_GhjA1gmTzbglrb8621R04aFb_0sd8mN1oDmZ5KyyuPnkmnL7Bs60T0XLrX6zrtzUjwtn5FqOZCA691Ux6--cJmsrMeOGwhKt16yBAYk0eQvPym0nc_v615nrQHgvRy9Z7OM_jdY7oyegH0BB-aoh3UySp4Jy3sGTX0AeKg5qFHJgRNEABl0s3CxhJNPKNMsvm8akcQ2UDsd4aAFX8E8yfm-ysRSWv8Eel0Eg3c2yfI6wZDjAlf=w1459-h821-no?authuser=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myagubbayli&label=Profile%20views&color=0e75b6&style=flat" alt="myagubbayli" /> </p>
 
@@ -14,9 +15,6 @@
 
 - 📫 How to reach me **yagubbayli18@itu.edu.tr**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
